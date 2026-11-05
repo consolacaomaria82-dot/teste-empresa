@@ -1,17 +1,19 @@
-# teste-empresa
-Repositório teste para trabalho.
-# TED System
+# Nexus Technologies
 
-> Tecnologia que evolui com o seu negócio.
+> Tecnologia na velocidade da luz.
 
 ## Sobre a Empresa
-Desenvolver soluções de software personalizadas, seguras e escaláveis que simplifiquem processos, aumentem a produtividade e impulsionem o crescimento dos nossos clientes.
+Desenvolver soluções tecnológicas inovadoras e futuristas, como robôs autônomos, sistemas de inteligência artificial, dispositivos inteligentes e tecnologias para casas do futuro. A Nexus Technologies busca transformar ideias em realidade, promovendo inovação, conectividade e eficiência por meio de tecnologias avançadas.
 
 ## Localização
-- **Endereço:** Rua Coronel Simplício, 250, Sala 12
-- **Local:** Centro, Piripiri, PI - CEP 64260-000
+- **Endereço:** Rua Oscar Freire, 1420, Bloco B, Apto 112
+- **Local:** São Paulo, SP - CEP 05409-011
 
 ## Equipe
-- **Wanderson de Vasconcelos** — CEO e Engenheiro de Software
-- **Sheldon Cooper** — Especialista Full Stack
-- **Amy Farrah Fowler** — Especialista em Bancos de Dados
+- **Ellen Ramos** — Diretora-Geral (CEO)
+- **Maria da Consolação Nascimento** — Gerente Administrativa e Financeira
+- **Jude William Bellingham** — Gerente Comercial e Marketing
+
+## Contato
+- **E-mail:** Nexustechnologies@gmail.com
+- **Telefone:** (11) 99887-7665
